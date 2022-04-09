@@ -1,1 +1,1 @@
-# count-letters
+# Kasiski Method
